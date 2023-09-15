@@ -7,7 +7,7 @@
 <p>
   👋&nbsp; I'm NLP researcher!!🚀<br/>
   - 📖 I'm interested in NLP, especially Chatbot, GPT, LLM!<br/>
-  - 🌱 I'm currently working on a maths tutoring chatbot.<br/>
+  - 🌱 I'm currently working on a math tutoring chatbot.<br/>
 </p>
 
 
