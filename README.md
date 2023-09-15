@@ -14,8 +14,9 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pythoch&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pythoch&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
 
 </p>
 <p>
