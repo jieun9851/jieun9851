@@ -26,3 +26,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun9851&show_icons=true&theme=radical)
