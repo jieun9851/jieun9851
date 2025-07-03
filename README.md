@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Jieun!
 
+<p align="center">
+  <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' width="200" />
+</p>
+
 I'm an **AI researcher** working on **LLMs** and **LMMs**, currently focusing on:
 - 📚 Development of **math tutoring LLMs**
 - ⚙️ **Automated code generation** systems
@@ -94,9 +98,7 @@ I'm an **AI researcher** working on **LLMs** and **LMMs**, currently focusing on
 
 ---
 
-<p align="center">
-  <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' width="200" />
-</p>
+
 <!--   <br/>
   <a href="https://stats.hyochan.dev/en/stats/jieun9851">
     <img src="https://github-readme-stats.vercel.app/api?username=jieun9851&show_icons=true&theme=tokyonight" width="500" />
