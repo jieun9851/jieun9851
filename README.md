@@ -4,13 +4,15 @@
   <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' width="200" />
 </p>
 
-I'm an **AI researcher** working on **LLMs** and **LMMs**, currently focusing on:
-- 📚 Development of **math tutoring LLMs**
-- ⚙️ **Automated code generation** systems
-- 🗂️ **Dataset construction and refinement** for intelligent tutoring systems
+I'm an AI researcher working on LLMs and LMMs, currently focusing on math tutoring chatbot systems, code generation models, and LLM/LMM applications in education.
 
-💬 I completed my M.S. with a focus on **sentiment analysis** and **sentence extraction**  
-🤖 I'm especially passionate about how LLMs can support human learning and how multimodal models can enhance intelligent tutoring experiences.
+- 📚 Main Project: Developing and researching math tutoring LLMs
+- 🤖 Interests: Chatbots, educational LLMs/LMMs, code generation, and multimodal AI
+- 💬 Master's Research: Sentiment analysis and key sentence extraction
+
+I'm especially passionate about how LLMs can support human learning and how multimodal models can enhance intelligent tutoring experiences.
+
+
 
 ---
 
