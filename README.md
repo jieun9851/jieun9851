@@ -81,7 +81,7 @@ I'm an **AI researcher** working on **LLMs** and **LMMs**, currently focusing on
   <a href="mailto:geeag51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/지은-박-58ba99245">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://scholar.google.co.kr/citations?user=m6lNEksAAAAJ&hl=ko">
