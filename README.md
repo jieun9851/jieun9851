@@ -11,29 +11,29 @@ I'm an **AI researcher** working on **LLMs** and **LMMs**, currently focusing on
 ---
 
 ## 🧑‍🎓 Education
-- 🎓 **B.S.** in Mathematics & IT Convergence, *University of Ulsan* (2017.03 – 2021.02)  
 - 🎓 **M.S.** in Electrical, Electronic & Computer Engineering (AI), *University of Ulsan* (2021.03 – 2023.02)
+- 🎓 **B.S.** in Mathematics & IT Convergence, *University of Ulsan* (2017.03 – 2021.02)  
 
 ---
 
 ## 📄 Publications
-- Park, Ji-Eun, Park, Sung-Eun, et al.  
+- **Park, Ji-Eun**, Park, Sung-Eun, et al.  
   _"What Is the True Performance of Large Multimodal Models in Visual Context-Based Mathematical Reasoning? An Analysis of Multiple Datasets and Future Research Directions."_  
   *IEEE ICTC 2024*
 
-- Park, Ji-Eun, Ju-Sang Lee, Joon-Choul Shin, and Cheol-Young Ock.  
+- **Park, Ji-Eun**, Ju-Sang Lee, Joon-Choul Shin, and Cheol-Young Ock.  
   _"A Model for Topic Classification and Extraction of Sentimental Expression using a Lexical Semantic Network."_  
   *Journal of KIISE*, Vol.50, No.8, pp.700–711, 2023
 
-- Park, Ji-Eun, Ju-Sang Lee, and Cheol-Young Ock.  
+- **Park, Ji-Eun**, Ju-Sang Lee, and Cheol-Young Ock.  
   _"A Model for Extraction of Sentiment Expression Areas Using Sentiment Domain and Multi-Task Learning."_  
   *KIISE Conference Proceedings*, pp.434–436, 2022
 
-- Shin, J., Kim, W., Lee, J., Park, J., & Ock, C. Y.  
+- Shin, J., Kim, W., Lee, J., **Park, J.**, & Ock, C. Y.  
   _"Controlling Weight Update Probability of Sparse Features in Machine Learning."_  
   *IEEE KSE 2022*
 
-- Park, Ji-Eun, Ju-Sang Lee, and Cheol-Young Ock.  
+- **Park, Ji-Eun**, Ju-Sang Lee, and Cheol-Young Ock.  
   _"Extracting Multiple Sentiment Expression Areas Using BERT + CRF."_  
   *Annual Conference on Human and Language Technology*, pp.571–575, 2021
 
