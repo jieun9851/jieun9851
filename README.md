@@ -62,6 +62,10 @@ I'm especially passionate about how LLMs can support human learning and how mult
 
 ---
 
+<a href="https://velog.io/@jieun9851">
+  <img src="https://velog-dashboard.kro.kr/badge?username=jieun9851&type=default&assets=views,likes,posts"/>
+</a>
+
 
 <!--   <br/>
   <a href="https://stats.hyochan.dev/en/stats/jieun9851">
